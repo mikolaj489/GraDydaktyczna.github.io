@@ -4,5 +4,5 @@ Gra stworzona w celach edukacyjnych
 
 (jeśli odtwarzana na telefonie, wymagana jest rojentacja pozioma-przed kliknięciem w link)
 
-<a>https://szymon7.itch.io/gra-komunizm-hit </a>
+https://szymon7.itch.io/gra-komunizm-hit
 
