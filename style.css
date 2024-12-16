@@ -160,10 +160,10 @@ footer{
 }
 @media screen and (max-width: 520px) {
     h1{
-        font-size:3rem;
+        font-size:50px;
     }
     .title-container p{
-        font-size: 1rem;
+        font-size: 16px;
         margin: 20px 0 0 0;
     }
     .info{
